@@ -1,8 +1,8 @@
 {
   "name": "@gilt-tech/swig-docker",
   "description": "Provides tasks for working with docker containers.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/gilt/gilt-swig",
+  "version": "0.1.1",
+  "homepage": "https://github.com/gilt/gilt-swig-docker",
   "keywords": [
     "gulp",
     "swig",
@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gilt/gilt-swig.git"
+    "url": "https://github.com/gilt/gilt-swig-docker.git"
   },
   "bugs": {
-    "url": "https://github.com/gilt/gilt-swig/issues"
+    "url": "https://github.com/gilt/gilt-swig-docker/issues"
   },
   "author": {
     "name": "Gilt Groupe",
@@ -31,7 +31,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/gilt/gilt-swig/blob/master/LICENSE"
+      "url": "http://github.com/gilt/gilt-swig-docker/blob/master/LICENSE"
     }
   ],
   "engines": {
